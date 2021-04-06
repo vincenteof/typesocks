@@ -1,0 +1,11 @@
+{
+  "name": "typesocks-crypto",
+  "version": "0.0.1",
+  "description": "crypto",
+  "main": "index.js",
+  "author": "vincenteof",
+  "license": "MIT",
+  "scripts": {
+    "build": " rimraf -rf lib && tsc --outDir lib"
+  }
+}
