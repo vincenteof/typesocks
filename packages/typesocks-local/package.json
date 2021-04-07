@@ -1,7 +1,10 @@
 {
-  "name": "typesocks-local",
+  "name": "@typesocks/local",
   "version": "0.0.1",
   "main": "index.js",
   "author": "vincenteof",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@typesocks/crypto": "^0.0.1"
+  }
 }

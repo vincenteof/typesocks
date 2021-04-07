@@ -9,6 +9,6 @@
   },
   "scripts": {
     "build": "lerna run build",
-    "bootstrap": "lerna run bootstrap --hoist"
+    "bootstrap": "lerna run bootstrap"
   }
 }

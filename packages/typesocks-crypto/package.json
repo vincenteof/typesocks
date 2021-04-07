@@ -1,5 +1,5 @@
 {
-  "name": "typesocks-crypto",
+  "name": "@typesocks/crypto",
   "version": "0.0.1",
   "description": "crypto",
   "main": "index.js",
