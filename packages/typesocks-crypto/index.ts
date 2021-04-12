@@ -1,5 +1,3 @@
-import { Socket, connect } from 'net'
-
 const PASSWORD_LENGTH = 256
 
 function getRandomInt(min: number, max: number) {

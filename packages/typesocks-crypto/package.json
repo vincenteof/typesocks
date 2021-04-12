@@ -6,6 +6,6 @@
   "author": "vincenteof",
   "license": "MIT",
   "scripts": {
-    "build": " rimraf -rf lib && tsc --outDir lib"
+    "build": " rimraf -rf lib && tsc"
   }
 }
